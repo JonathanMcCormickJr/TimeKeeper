@@ -50,7 +50,7 @@ Contributions to the TimeKeeper App are welcome. If you have suggestions for imp
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](./LICENCE) for more information.
 
 ## Contact
 
