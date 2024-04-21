@@ -21,7 +21,7 @@ To run the TimeKeeper App, you'll need Python installed on your computer. The ap
 1. **Clone the Repository or Download the Source Code**:
    - If you have git installed, you can clone the repository using:
      ```
-     git clone https://github.com/LiberlandHacker/TimeKeeperApp.git
+     [git clone https://github.com/LiberlandHacker/TimeKeeper.git
      ```
    - Alternatively, download the source code as a zip file and extract it.
 
