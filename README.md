@@ -2,7 +2,7 @@
 
 TimeKeeper App is a simple and intuitive time tracking tool designed to help individuals monitor their work hours. Built using Python and Tkinter for a graphical user interface, this desktop application allows users to clock in and out with a click of a button, keep a log of all activities, and display the total worked time dynamically. This Readme provides an overview of the application features, installation steps, and how to get started.
 
-![image]("/images/img1.png")
+![image](/images/img1.png)
 
 
 ## Features
