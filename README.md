@@ -54,7 +54,7 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 ## Contact
 
-For support or to contact the developer, please email support@example.com.
+For support or to contact the developer, please email LiberlandHacker[at]pm[dot]me.
 
 ---
 Enjoy tracking your time with the TimeKeeper App, designed to make work hour monitoring straightforward and hassle-free!
