@@ -30,7 +30,7 @@ To run the TimeKeeper App, you'll need Python installed on your computer. The ap
 4. **Run the Application**:
    - Execute the following command in the terminal:
      ```
-     python timekeeper_app.py
+     python3 timekeeper_app.py
      ```
 
 ## Usage
