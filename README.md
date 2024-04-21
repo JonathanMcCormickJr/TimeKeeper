@@ -12,7 +12,7 @@ TimeKeeper App is a simple and intuitive time tracking tool designed to help ind
 
 ## Installation
 
-To run the TimeKeeper App, you'll need Python installed on your computer. The app is developed with Python 3.8 or later. Follow these steps to set up the app:
+To run the TimeKeeper App, you'll need Python installed on your computer. The app is developed with Python 3.8 or later. While the author developed this app for use on Debian Linux, it could possibly work on other operating systems. Follow these steps to set up the app:
 
 1. **Clone the Repository or Download the Source Code**:
    - If you have git installed, you can clone the repository using:
